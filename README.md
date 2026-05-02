@@ -76,7 +76,7 @@
 
 <br>
 
-<h2 align="left"> Connect & collaborate</h2>
+<h2 align="left">🌐 Connect & collaborate</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chenna-keerthana-602227326/" target="_blank">
