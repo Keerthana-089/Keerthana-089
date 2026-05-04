@@ -6,7 +6,9 @@
 <tr>
 <td width="60%">
 
-<h2 align="left">👩‍💻 About Me</h2>
+<h2 align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1nYnVxM2pyMjY0dGluMjRlMnNzbWRqdnYyMzdpam8xYXcxN25rYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px" /> About Me
+</h2>
 
 - 🚀 B.Tech student passionate about tech  
 - 🤖 Exploring AI & Web Development  
@@ -79,7 +81,9 @@
 
 <br>
 
-<h2 align="left">🌐 Connect & collaborate</h2>
+<h2 align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRhcWlrdjZsZjdldjc3aTZkYmE5YzdhZWhlaWpzMXNqZzVzZ3hveCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="40px" /> Connect & collaborate
+</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chenna-keerthana-602227326/" target="_blank">
@@ -98,7 +102,7 @@
 <br>
 
 <h2 align="left">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Github Statistics
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">Github Statistics
 </h2>
 
 <p align="center">
