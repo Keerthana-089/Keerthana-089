@@ -24,7 +24,10 @@
 
 <br>
 
-<h2 align="left">⚛️ TechStack</h2>
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
+   TechStack
+</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -94,7 +97,9 @@
 
 <br>
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Github Statistics
+</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Keerthana-089&theme=radical&hide_border=false" height="150"/>
