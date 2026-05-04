@@ -82,7 +82,7 @@
 <br>
 
 <h2 align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRhcWlrdjZsZjdldjc3aTZkYmE5YzdhZWhlaWpzMXNqZzVzZ3hveCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="40px" /> Connect & collaborate
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRhcWlrdjZsZjdldjc3aTZkYmE5YzdhZWhlaWpzMXNqZzVzZ3hveCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="30px" /> Connect & collaborate
 </h2>
 
 <p align="left">
