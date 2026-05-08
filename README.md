@@ -10,7 +10,11 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1nYnVxM2pyMjY0dGluMjRlMnNzbWRqdnYyMzdpam8xYXcxN25rYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px" /> About Me
 </h2>
 
-
+- 🚀 B.Tech student passionate about tech 
+- 🤖 Exploring AI & Web Development  
+- 💡 Building real-world projects  
+- ⚡ Always learning & improving  
+- 🎲 Fun fact: I spend more time debugging than coding… but that’s where the real learning happens 😅  
 
 </td>
 
