@@ -105,4 +105,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">Github Statistics
 </h2>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Keerthana-089&theme=radical&hide_border=False" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Keerthana-089&theme=radical&hide_border=false&layout=compact" height="150"/>
+</p>
